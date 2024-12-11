@@ -76,6 +76,7 @@ select {
 .books-list {
     font-size: 16px;
     font-weight: 400;
+    padding: 0 20px;  /* бот сказал добавить  */
 }
 
 .label {
@@ -98,14 +99,13 @@ select {
 }
 
 .btn {
-    border-radius: 5px;
-    width: 330px;
+    background: #2965f1;
+    width: 125px;
     height: 36px;
-    background: rgba(255, 255, 255, 0);
-    font-weight: 400;
-    font-size: 16px;
-    color: rgba(48, 48, 48, 0.2);
-    border: 1px solid rgba(48, 48, 48, 0.3);
+    font-weight: 700;
+    font-size: 14px;
+    color: #fff;
+    border-radius: 5px;
     padding-left: 12px;
     padding-top: 9px;
     padding-bottom: 8px;
